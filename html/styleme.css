@@ -1,0 +1,10 @@
+h1, h2 {
+	font-family : Courier New;
+	color : blue;
+	text-align: left;
+}
+body {
+	font-family : Arial;
+	color : aqua;
+	background-color : gray;
+}
